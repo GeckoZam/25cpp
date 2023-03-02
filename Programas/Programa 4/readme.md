@@ -1,0 +1,1 @@
+Programa de numeros enteros del 1 al 30 con reciprocos.

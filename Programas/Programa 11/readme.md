@@ -1,0 +1,1 @@
+Programa que determina si la suma 3^1974 + 3^1974 + 3^1974 es igual a 3^1975.

@@ -1,0 +1,1 @@
+Programa que encuentra la media aritmética de los números 60 y 68.

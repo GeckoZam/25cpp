@@ -1,0 +1,1 @@
+Programa que determina que numero es mayor entre 3^75 o 2^100.

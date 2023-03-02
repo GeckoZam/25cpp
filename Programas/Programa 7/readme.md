@@ -1,0 +1,1 @@
+Programa que determina si un numero es par o impar.
